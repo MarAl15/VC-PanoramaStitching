@@ -8,11 +8,11 @@ Construction of a panoramic image from several images using SIFT keypoint detect
 
 | ![Harris points](https://github.com/MarAl15/VC-Panoramas/blob/main/images/3.png) |
 |:--:|
-| Harris points |
+| Harris points (location, scale and orientation) |
 
 | ![Keypoints](https://github.com/MarAl15/VC-Panoramas/blob/main/images/4.png) |
 |:--:|
-| Keypoints (location, scale and orientation)|
+| Keypoints |
 
 ## Feature matching
 
